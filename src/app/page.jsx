@@ -21,6 +21,7 @@ export default function Page() {
                   Next.js Learn Course
               </a>
               , brought to you by Vercel.
+              -Shannon Sweeney
           </p>
           
           <Link
